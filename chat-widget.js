@@ -539,16 +539,6 @@
             url: '',
             route: ''
         },
-        branding: {
-            logo: '',
-            name: '',
-            welcomeText: '',
-            responseTimeText: '',
-            poweredBy: {
-                text: 'Powered by n8n',
-                link: 'https://n8n.partnerlinks.io/fabimarkl'
-            }
-        },
         style: {
             primaryColor: '#10b981', // Green
             secondaryColor: '#059669', // Darker green
