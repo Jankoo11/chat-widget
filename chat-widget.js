@@ -80,7 +80,7 @@
             height: 32px;
             border-radius: var(--chat-radius-sm);
             object-fit: contain;
-            background: white;
+            background: transparent;
             padding: 4px;
         }
 
