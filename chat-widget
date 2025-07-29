@@ -1,0 +1,21 @@
+<!-- Widget Configuration -->
+<script>
+window.ChatWidgetConfig = {
+webhook: { url: 'ENTER_WEBHOOK_URL',
+route: 'general'
+},
+branding: { logo: 'ENTER_LOGO_URL', name: 'Čistko',
+welcomeText: 'Takojšnji odgovori na vaša vprašanja!',
+responseTimeText: 'Kliknite gumb, da začnete klepet.'
+},
+style: {
+primaryColor: '#00aeef',
+secondaryColor: '#009FEF',
+position: 'right',
+backgroundColor: '#ffffff',
+fontColor: '#1f2937'
+},
+// Add suggested questions that users can click
+};
+</script>
+<script src="https://cdn.jsdelivr.net/gh/funtastic418/chat-widget@main/chat-widget.js"></script>
